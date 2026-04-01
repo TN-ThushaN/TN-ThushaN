@@ -11,7 +11,7 @@
 - 💡 Interested in **Data Science, Machine Learning & Web Development**  
 - 📚 Capstone Project: **BookHub – Library Management System**  
 - 🌱 Learning: `Python`, `PHP`, `MySQL`, `JavaScript`  
-- 🎯 Goal: **Data Science / Software Engineering Internship**  
+- 🎯 Goal: **To become a skilled Data Scientist and Full-Stack Developer, building intelligent systems that solve real-world problems.**  
 
 ---
 
