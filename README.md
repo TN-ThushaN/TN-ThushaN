@@ -53,12 +53,12 @@ A full-featured **Library Management System** built with **PHP & MySQL**
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TN-Thushan&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=TN-Thushan&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Thushan&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Thushan&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
