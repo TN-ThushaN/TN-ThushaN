@@ -56,9 +56,7 @@ A full-featured **Library Management System** built with **PHP & MySQL**
   <img src="https://github-readme-stats.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TN-Thushan&theme=tokyonight" height="170"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TN-Thushan/TN-Thushan/output/github-contribution-grid-snake.svg" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Thushan&layout=compact&theme=tokyonight"/>
 </p>
