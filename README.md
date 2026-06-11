@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Thushan</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=Data+Science+Undergraduate+🧠;Machine+Learning+Enthusiast+🔥;Full+Stack+Developer+💻;Power+BI+%7C+Python+%7C+AI+Engineer+🌐;Building+Real+World+Smart+Systems+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
 # 👋 Hi, I'm Thushan  
 
 <p align="center">
