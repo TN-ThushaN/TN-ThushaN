@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thushan  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Aspiring+Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Building+Real-World+Systems+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate+%F0%9F%A7%A0;Aspiring+Machine+Learning+Engineer+%F0%9F%94%A5;Full-Stack+Developer+%F0%9F%92%BB;Building+Real-World+Intelligent+Systems+%F0%9F%8C%90" />
 </p>
 
 ---
@@ -9,20 +9,22 @@
 ## 🚀 About Me  
 
 🎓 BSc in Data Science @ Sabaragamuwa University of Sri Lanka  
-💡 Passionate about Data Science, Machine Learning & Full-Stack Development  
+💡 Passionate about **Data Science, Machine Learning, and Full-Stack Development**  
 📘 Capstone Project: **BookHub – Library Management System**  
-🌱 Currently improving: Python • PHP • MySQL • JavaScript  
-🎯 Goal: Become a skilled **Data Scientist + Full-Stack Engineer** building impactful real-world systems  
+🧠 Focused on building **real-world, data-driven applications**  
+🌱 Currently improving: Python • Machine Learning • PHP • MySQL • JavaScript  
+🎯 Goal: Become a **Machine Learning Engineer & Full-Stack Developer**  
 
 ---
 
 ## 🧠 What I Do  
 
-- 📊 Data analysis & insights  
-- 🤖 Machine learning fundamentals  
-- 🌐 Web application development  
-- 🗄️ Database design & management  
-- ⚙️ Backend logic & system integration  
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning (NLP, Classification Models)  
+- 🌐 Full-Stack Web Development  
+- 🗄️ Database Design & Optimization  
+- ⚙️ Backend System Development  
+- 📈 Building Real-World Projects  
 
 ---
 
@@ -45,20 +47,46 @@
 
 ---
 
-## 📌 Featured Project  
+## 📌 Featured Projects  
+
+### 🧠 Fake News Detection (Machine Learning + NLP)
+🔗 https://github.com/TN-Thushan/Fake-News-Detection  
+
+- NLP text classification using TF-IDF  
+- Logistic Regression model  
+- Flask web application  
+- Fake vs Real news prediction system  
+
+---
 
 ### 📘 BookHub – Library Management System  
-🔗 [View Repository](https://github.com/TN-Thushan/bookhub)
+🔗 https://github.com/TN-Thushan/bookhub  
 
-A complete **role-based Library Management System** built using PHP & MySQL.
+- Role-based system (Admin / User)  
+- Borrow & return system with limits  
+- Notification system (read/unread)  
+- Reports & analytics dashboard  
+- Dark mode UI  
 
-### ✨ Key Features  
-- 👤 Role-based authentication (Admin / User)  
-- 📚 Book borrow & return system (limit control)  
-- 🔔 Notification system (read / unread)  
-- 📊 Reports & analytics dashboard  
-- 🌙 Dark mode UI  
-- 🔍 Search, filter & pagination  
+---
+
+### 💰 Expense Tracker App  
+🔗 https://github.com/TN-Thushan/Expense-Tracker-App  
+
+- Income & expense tracking  
+- Monthly budget system  
+- Chart.js analytics dashboard  
+- Category-based filtering  
+
+---
+
+### 🌐 Portfolio Website  
+🔗 https://github.com/TN-Thushan/portfolio  
+
+- Responsive personal website  
+- Project showcase  
+- Clean UI design  
+- Mobile-friendly layout  
 
 ---
 
@@ -66,11 +94,19 @@ A complete **role-based Library Management System** built using PHP & MySQL.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=TN-Thushan&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TN-Thushan&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TN-Thushan&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TN-Thushan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 </p>
 
 ---
