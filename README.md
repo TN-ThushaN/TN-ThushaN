@@ -1,124 +1,112 @@
 # 👋 Hi, I'm Thushan
 
+<h3 align="center">📊 Data Science Undergraduate | 💻 Full-Stack Developer | 🤖 Aspiring Data Scientist</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Aspiring+Data+Scientist;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Business+Intelligence+Learner;Building+Real-World+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TN-Thushan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 BSc in Data Science Undergraduate at Sabaragamuwa University of Sri Lanka
+🎓 BSc in Data Science Undergraduate at **Sabaragamuwa University of Sri Lanka**
 
-I am passionate about Data Science, Machine Learning, Business Intelligence, and Full-Stack Development. I enjoy building real-world applications that solve practical problems and improve decision-making through data.
+I am passionate about turning data into insights and building real-world systems that solve practical problems.
 
-💡 Areas of Interest:
+I combine:
 
-* Data Science & Analytics
-* Machine Learning
-* Business Intelligence
-* Web Application Development
-* Database Systems
+* 📊 Data Science & Analytics
+* 💻 Full-Stack Web Development
+* 🗄️ Database Systems
+* 📈 Business Intelligence
+* 🤖 Machine Learning
+
+💡 My goal is to become a professional Data Scientist who builds impactful intelligent systems.
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📊 Data & BI
+
+* Python (Pandas, NumPy)
 * Data Visualization
-
-🌱 Currently Learning:
-
-* Python for Data Science
-* Machine Learning
-* MongoDB
 * Power BI
-* Advanced SQL
-* Data Engineering Fundamentals
-
-🎯 Career Goal:
-
-To become a Data Scientist capable of building intelligent systems and transforming data into meaningful insights that create real-world impact.
+* Statistical Analysis
+* Machine Learning Basics
 
 ---
 
-## 🛠️ Technical Skills
+# 📂 Featured Projects
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Data Science & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 📘 BookHub – Library Management System
+## 📘 BookHub – Library Management System
 
 🔗 https://github.com/TN-Thushan/bookhub
 
-Technologies:
-PHP • MySQL • JavaScript • HTML • CSS
+A full-stack library management system built using PHP and MySQL.
 
-Features:
+### ✨ Features
 
-* Role-based Authentication
-* Borrow & Return Management
-* Notification System
-* Reports & Analytics
-* Dark Mode Interface
-* User Profile Management
-
----
-
-### 🎓 Student Success Analytics Platform (In Progress)
-
-Technologies:
-Python • MongoDB • Power BI
-
-Features:
-
-* Student GPA Analytics
-* Attendance Monitoring
-* Dropout Risk Prediction
-* Department Performance Dashboard
-* Interactive Power BI Reports
+* Role-based login system (Admin/User)
+* Book borrowing & returning system
+* Notifications system
+* Reports & analytics
+* Dark mode UI
+* User profile management
 
 ---
 
-### 💼 Sri Lanka Job Market Analytics (Planned)
+## 🎓 Student Success Analytics Platform
 
-Technologies:
-Python • MongoDB • Power BI
+📊 Python • MongoDB • Power BI
 
-Features:
-
-* Job Demand Analysis
-* Skill Trend Tracking
-* Salary Insights
-* Industry Reports
+* GPA analysis system
+* Student performance dashboards
+* Dropout risk prediction
+* Attendance analytics
+* Interactive Power BI reports
 
 ---
 
-## 📈 GitHub Statistics
+## 💼 Sri Lanka Job Market Analytics
+
+📊 Python • MongoDB • Power BI
+
+* Job demand analysis
+* Skill trend insights
+* Salary distribution analytics
+* Industry performance reports
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=TN-Thushan&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TN-Thushan&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -127,40 +115,86 @@ Features:
 
 ---
 
-## 📚 Current Learning Roadmap
+# 🏆 GitHub Trophies
 
-✅ PHP & MySQL
-
-✅ Full-Stack Web Development
-
-✅ Git & GitHub
-
-🔄 Python for Data Science
-
-🔄 Power BI
-
-🔄 MongoDB
-
-🔄 Machine Learning
-
-🔄 Data Engineering
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TN-Thushan&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
 
 ---
 
-## 🌍 Connect With Me
+# 📊 Contribution Graph
 
-📧 Email: [tnthushan006@gmail.com](mailto:tnthushan006@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/tn-thushan-b6777a326
-
-💻 GitHub:
-https://github.com/TN-Thushan
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TN-Thushan&theme=tokyo-night"/>
+</p>
 
 ---
 
-## ✨ Personal Motto
+# 🐍 Contribution Snake
 
-> "Transforming data into insights and ideas into solutions."
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TN-Thushan/TN-Thushan/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+# 🎯 2026 Goals
+
+* ✔ Complete BSc in Data Science
+* ✔ Improve GitHub Portfolio
+* ✔ Master Power BI & MongoDB
+* ⏳ Build Machine Learning Projects
+* ⏳ Secure Internship in Data Science
+* ⏳ Contribute to Open Source Projects
+
+---
+
+# 🌱 Currently Learning
+
+* Python for Data Science
+* Machine Learning
+* Power BI
+* MongoDB
+* Data Engineering Basics
+
+---
+
+# 💡 Fun Facts
+
+* 📘 BookHub is my biggest project
+* 📊 I enjoy analyzing real-world data
+* 💻 I love building full-stack systems
+* 🚀 I learn new tech every semester
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tnthushan006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tn-thushan-b6777a326">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TN-Thushan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
+
+> “Data is powerful only when transformed into insight and action.”
+
+---
+
+<p align="center">
+⭐ If you like my work, feel free to follow my journey!
+</p>
