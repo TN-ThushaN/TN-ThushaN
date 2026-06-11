@@ -149,6 +149,15 @@
 </p>
 
 ---
+## 🌌 GitHub 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TN-Thushan&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 💡 Personal Motto  
 
