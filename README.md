@@ -7,11 +7,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </p>
-# 👋 Hi, I'm Thushan  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate+%F0%9F%A7%A0;Aspiring+Machine+Learning+Engineer+%F0%9F%94%A5;Full-Stack+Developer+%F0%9F%92%BB;Building+Real-World+Intelligent+Systems+%F0%9F%8C%90" />
-</p>
 
 ---
 
