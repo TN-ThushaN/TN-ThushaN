@@ -1,131 +1,104 @@
-<h1 align="center">Hi 👋, I'm Thushan</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=32&center=true&vCenter=true&width=900&lines=Data+Science+Undergraduate+🧠;Machine+Learning+Enthusiast+🔥;Full+Stack+Developer+💻;Power+BI+%7C+Python+%7C+AI+Engineer+🌐;Building+Real+World+Smart+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=34&center=true&vCenter=true&width=900&lines=Hi+I'm+Thushan+👋;Data+Science+Undergraduate+🧠;Machine+Learning+Engineer+in+Progress+🔥;Full+Stack+Developer+💻;Building+Smart+Real+World+Systems+🌐" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
 
-## 🚀 About Me  
+# 🧭 ABOUT ME
 
-🎓 BSc in Data Science @ Sabaragamuwa University of Sri Lanka  
-💡 Passionate about **Data Science, Machine Learning, and Full-Stack Development**  
-📘 Capstone Project: **BookHub – Library Management System**  
-🧠 Focused on building **real-world, data-driven applications**  
-🌱 Currently improving: Python • Machine Learning • PHP • MySQL • JavaScript  
-🎯 Goal: Become a **Machine Learning Engineer & Full-Stack Developer**  
+> Turning data into intelligent systems and ideas into real-world applications.
 
----
-
-## 🧠 What I Do  
-
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning (NLP, Classification Models)  
-- 🌐 Full-Stack Web Development  
-- 🗄️ Database Design & Optimization  
-- ⚙️ Backend System Development  
-- 📈 Building Real-World Projects  
+🎓 Data Science Undergraduate @ Sabaragamuwa University of Sri Lanka  
+🤖 Passionate about Machine Learning, AI & Predictive Analytics  
+📊 Strong interest in Business Intelligence (Power BI dashboards)  
+🌐 Full-Stack Developer (PHP, MySQL, JavaScript)  
+🚀 Building real-world production-style projects  
 
 ---
 
-## 🛠️ Tech Stack  
+# ⚡ WHAT I DO
 
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data Science & BI Tools  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-### ⚙️ Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+✔ Machine Learning Models (NLP, Classification, Prediction)  
+✔ Data Analysis & Visualization (Python + Power BI)  
+✔ Full-Stack Web Applications  
+✔ Database Design & Optimization (MySQL)  
+✔ Backend Systems (PHP APIs, Authentication, Role-based systems)  
 
 ---
 
-## 📌 Featured Projects  
+# 🛠 TECH STACK
 
-### 🧠 Fake News Detection (Machine Learning + NLP)
-🔗 https://github.com/TN-Thushan/Fake-News-Detection  
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
-- NLP text classification using TF-IDF  
-- Logistic Regression model  
-- Flask web application  
-- Fake vs Real news prediction system  
+## 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 
----
-
-### 📘 BookHub – Library Management System  
-🔗 https://github.com/TN-Thushan/bookhub  
-
-- Role-based system (Admin / User)  
-- Borrow & return system with limits  
-- Notification system (read/unread)  
-- Reports & analytics dashboard  
-- Dark mode UI  
+## 🌐 Web & Database
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
 ---
 
-### 💰 Expense Tracker App  
-🔗 https://github.com/TN-Thushan/Expense-Tracker-App  
+# 🚀 FEATURED PROJECTS (SHOWCASE)
 
-- Income & expense tracking  
-- Monthly budget system  
-- Chart.js analytics dashboard  
-- Category-based filtering  
-
----
-
-### 🌐 Portfolio Website  
-🔗 https://github.com/TN-Thushan/portfolio  
-
-- Responsive personal website  
-- Project showcase  
-- Clean UI design  
-- Mobile-friendly layout  
+## 🧠 Fake News Detection (AI/NLP)
+👉 https://github.com/TN-Thushan/Fake-News-Detection  
+✔ NLP-based classification  
+✔ Logistic Regression Model  
+✔ Flask web deployment  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📘 BookHub — Library Management System
+👉 https://github.com/TN-Thushan/bookhub  
+✔ Role-based system (Admin/User)  
+✔ Borrow/Return system with limits  
+✔ Notifications & Reports  
+✔ Dark mode UI + MySQL backend  
+
+---
+
+## 💰 Expense Tracker App
+👉 https://github.com/TN-Thushan/Expense-Tracker-App  
+✔ Income & expense tracking  
+✔ Budget system  
+✔ Chart.js dashboard  
+
+---
+
+## 🌐 Portfolio Website
+👉 https://github.com/TN-Thushan/portfolio  
+✔ Responsive UI  
+✔ Project showcase system  
+✔ Mobile friendly design  
+
+---
+
+# 📊 LIVE GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TN-Thushan&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TN-Thushan&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TN-Thushan&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-Thushan&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TN-Thushan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
-</p>
-
----
-
-## 🌌 GitHub 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+# 📈 ACTIVITY DASHBOARD (3D STYLE)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TN-Thushan&theme=tokyo-night&hide_border=true" />
@@ -133,27 +106,27 @@
 
 ---
 
-## 👀 Profile Views  
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TN-Thushan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/TN-Thushan/TN-Thushan/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+# 📬 LET’S CONNECT
 
 <p align="center">
   <a href="mailto:tnthushan006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/tn-thushan-b6777a326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 💡 Personal Motto  
+# 💡 MOTTO
 
 > *“Build consistently. Learn endlessly. Improve every day.”* 🚀
