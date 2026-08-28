@@ -166,7 +166,7 @@ I'm a passionate Data Science undergraduate interested in transforming **data in
 <td colspan="2">
 
 ## 🎓 Student Feedback Analysis System
-
+🔗 [View Projec](https://github.com/TN-ThushaN/NLP_Student_Feedback)
 **NLP • Machine Learning • Data Analytics**
 
 A system designed to automatically analyze student feedback and classify reviews into **Positive, Neutral, and Negative** categories.
