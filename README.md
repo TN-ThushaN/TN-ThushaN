@@ -184,15 +184,14 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TN-Thushan&theme=tokyo-night&hide_border=true"
-    width="95%"
+    src="https://streak-stats.demolab.com?user=TN-Thushan&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
   />
-
 </p>
 
 ---
@@ -200,11 +199,22 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
   <img
     src="https://github-profile-trophy.vercel.app/?username=TN-Thushan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"
+    alt="GitHub Trophies"
   />
+</p>
 
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TN-Thushan&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
