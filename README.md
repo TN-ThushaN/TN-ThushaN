@@ -1,34 +1,46 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thushan&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Animated Header"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Thushan</h1>
 
 <p align="center">
-  <strong>Data Science Undergraduate • Machine Learning Enthusiast • Developer</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Data+Science+Undergraduate+🧠;Machine+Learning+Enthusiast+🤖;NLP+%26+AI+Explorer+📝;Power+BI+%7C+Python+%7C+Data+Analytics+📊;Full+Stack+Developer+💻;Building+Real+World+Smart+Systems+🚀"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/TN-Thushan">
-    <img src="https://img.shields.io/badge/GitHub-TN--Thushan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tn-thushan-b6777a326">
-    <img src="https://img.shields.io/badge/LinkedIn-Thushan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tnthushan006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="380"
+    alt="Coding Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TN-Thushan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=TN-Thushan&label=Profile%20Views&color=00F7FF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 **BSc in Data Science Undergraduate** at **Sabaragamuwa University of Sri Lanka**
 
 📊 Passionate about **Data Science, Machine Learning, NLP and Business Intelligence**
 
-🐍 Building data-driven applications with **Python, Pandas, NumPy and Scikit-learn**
+🐍 Building data-driven applications using **Python, Pandas, NumPy and Scikit-learn**
 
 🤖 Exploring **Machine Learning, Natural Language Processing and AI**
 
@@ -40,41 +52,64 @@
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Data Science          ███████████████████░░   90%
-Python                ██████████████████░░░   88%
-Machine Learning      █████████████████░░░░   85%
-Power BI              ████████████████░░░░░   80%
-NLP                   ███████████████░░░░░░   75%
-Web Development       ██████████████░░░░░░░   70%
-```
-
-### Currently Learning
-
-- 🐍 Advanced Python
-- 📊 Data Analysis & Visualization
-- 🤖 Machine Learning
-- 📝 Natural Language Processing
-- 🧠 Deep Learning
-- 📈 Power BI & Business Intelligence
-- 🗄️ Database Systems
-- ⚙️ Machine Learning Deployment
-
----
-
 # 🧠 What I Do
 
-| Area | Skills |
-|---|---|
-| 📊 Data Science | Data Cleaning, EDA, Feature Engineering, Visualization |
-| 🤖 Machine Learning | Classification, Regression, Clustering, Model Evaluation |
-| 📝 NLP | Text Preprocessing, TF-IDF, Sentiment Analysis |
-| 📈 Business Intelligence | Power BI, DAX, KPI Dashboards |
-| 🗄️ Databases | MySQL, MongoDB, Database Design |
-| 🌐 Development | HTML, CSS, JavaScript, PHP, Flask |
-| ⚙️ Tools | Git, GitHub, VS Code, Laragon |
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Data Science
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Engineering
+- Statistical Analysis
+- Predictive Analytics
+
+</td>
+
+<td width="50%">
+
+### 🤖 Machine Learning
+
+- Classification
+- Regression
+- Clustering
+- Model Evaluation
+- Feature Engineering
+- Predictive Modeling
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 Natural Language Processing
+
+- Text Preprocessing
+- TF-IDF
+- Sentiment Analysis
+- Text Classification
+- NLP Pipelines
+
+</td>
+
+<td width="50%">
+
+### 📈 Business Intelligence
+
+- Power BI
+- Data Modeling
+- DAX
+- KPI Dashboards
+- Interactive Visualizations
+- Business Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,15 +138,14 @@ Web Development       ██████████████░░░░░�
 
 ### Machine Learning
 
-- Classification
-- Regression
-- Clustering
-- Feature Engineering
-- Model Evaluation
-- TF-IDF
-- Natural Language Processing
-- Sentiment Analysis
-- Predictive Modeling
+```text
+Classification       █████████████████░░░
+Regression           ████████████████░░░░
+Clustering           ███████████████░░░░░
+Feature Engineering  ████████████████░░░░
+NLP                  ███████████████░░░░░
+Model Evaluation     █████████████████░░░
+```
 
 ---
 
@@ -163,7 +197,25 @@ Web Development       ██████████████░░░░░�
 
 A machine learning application that predicts whether a news article is **Fake or Real** using Natural Language Processing.
 
-### Key Features
+### 🔬 Machine Learning Pipeline
+
+```text
+News Article
+     ↓
+Text Cleaning
+     ↓
+Preprocessing
+     ↓
+TF-IDF
+     ↓
+Logistic Regression
+     ↓
+Prediction
+     ↓
+Fake / Real
+```
+
+### ✨ Features
 
 - Text preprocessing
 - TF-IDF feature extraction
@@ -183,7 +235,7 @@ https://github.com/TN-Thushan/Fake-News-Detection
 
 A web-based library management system designed to simplify book management, borrowing and returning.
 
-### Key Features
+### ✨ Features
 
 - 👤 Admin & User roles
 - 📚 Book management
@@ -205,7 +257,7 @@ https://github.com/TN-Thushan/bookhub
 
 A personal finance application for managing income, expenses and monthly budgets.
 
-### Key Features
+### ✨ Features
 
 - 💵 Income tracking
 - 💸 Expense tracking
@@ -225,30 +277,23 @@ https://github.com/TN-Thushan/Expense-Tracker-App
 
 An NLP-based system designed to automatically analyze student feedback and classify sentiment.
 
-### Processing Pipeline
+### 🔬 NLP Pipeline
 
 ```text
 Student Feedback
-       │
-       ▼
+       ↓
 Data Collection
-       │
-       ▼
+       ↓
 Text Cleaning
-       │
-       ▼
-Text Preprocessing
-       │
-       ▼
-TF-IDF Feature Extraction
-       │
-       ▼
+       ↓
+Tokenization
+       ↓
+TF-IDF
+       ↓
 Machine Learning
-       │
-       ▼
+       ↓
 Sentiment Classification
-       │
-       ▼
+       ↓
 Analytics Dashboard
 ```
 
@@ -271,17 +316,17 @@ https://github.com/TN-Thushan
 
 **Power BI • Data Analysis • Data Visualization**
 
-An interactive Power BI dashboard designed to analyze inflation and cost-of-living trends in Sri Lanka.
+An interactive Power BI dashboard for analyzing inflation and cost-of-living trends in Sri Lanka.
 
-### Dashboard Features
+### 📈 Dashboard Features
 
-- 📈 Inflation trends
-- 🍚 Food inflation
-- 🛍️ Non-food inflation
-- 📊 CPI analysis
-- 📅 Year & month filtering
-- 🎯 KPI cards
-- 📉 Trend analysis
+- Inflation trends
+- Food inflation
+- Non-food inflation
+- CPI analysis
+- Year & month filtering
+- KPI cards
+- Trend analysis
 
 ---
 
@@ -289,7 +334,7 @@ An interactive Power BI dashboard designed to analyze inflation and cost-of-livi
 
 A responsive personal portfolio showcasing my projects, skills and experience.
 
-### Features
+### ✨ Features
 
 - Responsive design
 - Project showcase
@@ -304,46 +349,50 @@ https://github.com/TN-Thushan/portfolio
 
 # 🧪 Machine Learning Workflow
 
+<p align="center">
+
 ```text
-             ┌─────────────────┐
-             │   Raw Dataset   │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Data Collection │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Data Cleaning   │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │      EDA        │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │Feature Engineering│
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Model Training  │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Model Evaluation │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │    Deployment   │
-             └─────────────────┘
+┌─────────────────────┐
+│    Raw Dataset      │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│  Data Collection    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   Data Cleaning     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│        EDA          │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│Feature Engineering  │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   Model Training    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Model Evaluation    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│     Deployment      │
+└─────────────────────┘
 ```
+
+</p>
 
 ---
 
@@ -390,30 +439,15 @@ https://github.com/TN-Thushan/portfolio
 </p>
 
 <p align="center">
-  <a href="https://github.com/TN-Thushan?tab=overview">
-    <strong>View my GitHub activity and contributions →</strong>
+
+  <a href="https://github.com/TN-Thushan">
+    <img
+      src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub"
+    />
   </a>
+
 </p>
-
----
-
-# 🏆 Achievements & Goals
-
-```text
-🎓 Data Science Undergraduate
-        │
-        ▼
-📊 Data Analysis
-        │
-        ▼
-🤖 Machine Learning
-        │
-        ▼
-📝 NLP & AI
-        │
-        ▼
-🚀 Machine Learning Engineer
-```
 
 ---
 
@@ -422,29 +456,51 @@ https://github.com/TN-Thushan/portfolio
 <p align="center">
 
   <a href="https://github.com/TN-Thushan">
-    <img src="https://img.shields.io/badge/GitHub-TN--Thushan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-TN--Thushan-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/tn-thushan-b6777a326">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:tnthushan006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
 </p>
 
 ---
 
-## 💡 Personal Motto
+# 💡 Personal Motto
 
 <p align="center">
-  <strong>“Build consistently. Learn endlessly. Improve every day.” 🚀</strong>
+
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Build+consistently.;Learn+endlessly.;Improve+every+day.;Create+real-world+solutions. 🚀"
+    alt="Motto Animation"
+  />
+
 </p>
 
 ---
 
 <p align="center">
-  <sub>⭐ Thanks for visiting my profile!</sub>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=twinkling"
+    width="100%"
+    alt="Animated Footer"
+  />
+</p>
+
+<p align="center">
+  <strong>⭐ Thanks for visiting my profile! ⭐</strong>
 </p>
