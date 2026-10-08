@@ -1,10 +1,9 @@
-
 name: Generate Snake
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,24 +11,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate light and dark snakes
+        uses: Platane/snk@v3
         with:
           github_user_name: TN-ThushaN
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Verify SVG Files
-        run: |
-          test -s dist/github-contribution-grid-snake.svg
-          test -s dist/github-contribution-grid-snake-dark.svg
-          grep -q '<svg' dist/github-contribution-grid-snake-dark.svg
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v5
+      - name: Publish snake SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
