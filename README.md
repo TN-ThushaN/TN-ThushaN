@@ -287,19 +287,21 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 
 # 📈 Contribution Activity
 
+<!-- BEGIN ACTIVITY-GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&amp;bg_color=0D1117&amp;color=00F7FF&amp;line=00F7FF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <em>📈 Activity graph is initializing. Run the <strong>Update Contribution Activity Graph</strong> workflow from the Actions tab once.</em>
 </p>
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
 # 🐍 Watch My Contributions Get Eaten
 
+<!-- BEGIN SNAKE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake-dark.svg" alt="Animated snake eating Thushan's GitHub contributions" width="100%" />
+  <em>🐍 Snake animation is initializing. Run the <strong>Generate contribution snake</strong> workflow from the Actions tab once.</em>
 </p>
-
-> The snake graphic will appear after the optional [GitHub Actions snake workflow](.github/workflows/snake.yml) is added and successfully run in this profile repository.
+<!-- END SNAKE -->
 
 ---
 
