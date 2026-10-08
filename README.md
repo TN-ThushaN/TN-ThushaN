@@ -298,15 +298,13 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 # 🐍 Watch My Contributions Get Eaten
 
 <!-- BEGIN SNAKE -->
-
-<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake-dark.svg"
-       alt="GitHub Contribution Snake"
-       width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+  </picture>
 </p>
-
 <!-- END SNAKE -->
 
 ---
@@ -314,7 +312,7 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TN-ThushaN&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;row=2&amp;column=4" alt="GitHub profile trophies" />
+  <img src="./assets/github-trophies.svg" alt="GitHub profile trophies" width="100%" />
 </p>
 
 ---
