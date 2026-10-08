@@ -1,0 +1,35 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "12 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=TN-ThushaN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4'
+          path: assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated trophy SVG to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-trophies.svg
+          if git diff --cached --quiet; then
+            echo "No trophy changes to commit"
+          else
+            git commit -m "Update GitHub profile trophies"
+            git push
+          fi
