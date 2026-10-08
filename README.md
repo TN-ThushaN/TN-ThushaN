@@ -298,9 +298,15 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 # 🐍 Watch My Contributions Get Eaten
 
 <!-- BEGIN SNAKE -->
+
+<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
+
 <p align="center">
-  <em>🐍 Snake animation is initializing. Run the <strong>Generate contribution snake</strong> workflow from the Actions tab once.</em>
+  <img src="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake-dark.svg"
+       alt="GitHub Contribution Snake"
+       width="100%" />
 </p>
+
 <!-- END SNAKE -->
 
 ---
