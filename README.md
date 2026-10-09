@@ -288,9 +288,17 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 # 📈 Contribution Activity
 
 <!-- BEGIN ACTIVITY-GRAPH -->
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <em>📈 Activity graph is initializing. Run the <strong>Update Contribution Activity Graph</strong> workflow from the Actions tab once.</em>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&theme=tokyo-night&hide_border=true&area=true"
+    alt="Thushan's GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
+
 <!-- END ACTIVITY-GRAPH -->
 
 ---
