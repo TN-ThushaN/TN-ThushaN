@@ -289,8 +289,6 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 
 <!-- BEGIN ACTIVITY-GRAPH -->
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&theme=tokyo-night&hide_border=true&area=true"
