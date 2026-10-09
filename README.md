@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thushan</h1>
 
-<h3 align="center">Aspiring Business Intelligence Analyst • Data Analytics • Power BI • SQL</h3>
+<h3 align="center">Data Science • Business Intelligence • Data Analytics • Machine Learning</h3>
 
 <p align="center">
   🎓 <strong>BSc (Hons) in Data Science</strong> · Sabaragamuwa University of Sri Lanka 🇱🇰<br>
-  <strong>Expected Graduation: 2028</strong> · Open to BI &amp; Data Analytics Internships
+  <strong>Expected Graduation: 2028</strong> · Open to Data Science, BI &amp; Data Analytics Internships
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img alt="Animated introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2900&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=930&amp;lines=Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Excel+%7C+Analytics;Building+Dashboards+That+Tell+Stories;Exploring+Machine+Learning+%26+NLP;Open+to+BI+%26+Data+Analytics+Internships" />
+  <img alt="Animated introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2900&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=930&amp;lines=Turning+Data+into+Actionable+Insights;Data+Science+%7C+Business+Intelligence+%7C+Analytics;Power+BI+%7C+SQL+%7C+Python+%7C+Machine+Learning;Building+Dashboards+and+Predictive+Models;Open+to+Data+Science+%26+BI+Internships" />
 </p>
 
 <p align="center">
@@ -39,20 +39,21 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science undergraduate** interested in turning messy datasets into meaningful insights, clear KPIs, and useful dashboards. I enjoy both the analytical side of technology and building practical systems that solve real problems.
+I'm a **Data Science undergraduate** passionate about using **Data Science, Business Intelligence, and Data Analytics** to solve real-world problems. I enjoy cleaning and exploring data, discovering patterns, building predictive models, and transforming findings into clear dashboards and actionable business insights.
 
-- 📊 **Career focus:** Business Intelligence Analyst / Data Analyst
-- 🧰 **Analytics toolkit:** Power BI, Excel, SQL, Python, Power Query, and data visualization
-- 🎯 **What I enjoy:** Data cleaning, reporting, dashboard design, KPI tracking, and business storytelling
-- 🧠 **Related interests:** Machine Learning, NLP, forecasting, and predictive analytics
+- 📊 **Career focus:** Business Intelligence Analyst / Data Scientist / Data Analyst
+- 🧰 **Analytics toolkit:** Power BI, Excel, SQL, Python, Power Query, DAX, and data visualization
+- 🧪 **Data Science skills:** Data preprocessing, exploratory data analysis (EDA), statistics, feature engineering, machine learning, and model evaluation
+- 🎯 **What I enjoy:** Data cleaning, reporting, dashboard design, KPI tracking, forecasting, and data storytelling
+- 🧠 **Related interests:** Natural Language Processing (NLP), predictive analytics, and time-series analysis
 - 🗄️ **Project experience:** Database-backed web systems, MySQL, and MongoDB
-- 🤝 **Opportunities:** BI and Data Analytics internships
+- 🤝 **Opportunities:** Data Science, BI, and Data Analytics internships
 
 ### 🎯 Career Focus
 
-**Data Analytics → Business Intelligence → Data-Driven Decision Making**
+**Data Science + Business Intelligence + Data Analytics → Insights → Data-Driven Decision Making**
 
-> **My goal:** Transform raw data into understandable insights that support better business decisions.
+> **My goal:** Turn raw data into reliable predictions, understandable insights, and better business decisions.
 
 ---
 
@@ -75,13 +76,17 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
   <img alt="Python, PHP, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=python,php,js,html,css" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+### 🤖 Data Science, Machine Learning & Statistics
 
 <p align="center">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+  <img alt="Exploratory Data Analysis" src="https://img.shields.io/badge/EDA-0A91AD?style=for-the-badge" />
+  <img alt="Statistics" src="https://img.shields.io/badge/Statistics-5B5FC7?style=for-the-badge" />
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-0B7285?style=for-the-badge" />
+  <img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-0066FF?style=for-the-badge" />
 </p>
 
 ### 🌐 Web Development
@@ -106,7 +111,7 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 
 # 🚀 Featured Projects
 
-<p align="center"><strong>Business intelligence dashboards, machine learning, NLP, and real-world applications</strong></p>
+<p align="center"><strong>Business intelligence dashboards, data science, machine learning, NLP, forecasting, and real-world applications</strong></p>
 
 <table>
   <tr>
@@ -171,7 +176,7 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Fake News Detection</h3>
-      <p><strong>Machine Learning • NLP • Flask</strong></p>
+      <p><strong>Data Science • Machine Learning • NLP • Flask</strong></p>
       <p>🔗 <a href="https://github.com/TN-ThushaN/Fake-News-Detection"><strong>View GitHub Repository ↗</strong></a></p>
       <ul>
         <li>Text cleaning and NLP preprocessing</li>
@@ -184,7 +189,7 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 Student Feedback Analysis</h3>
-      <p><strong>Sentiment Analysis • NLP • Machine Learning</strong></p>
+      <p><strong>Data Science • Sentiment Analysis • NLP • Machine Learning</strong></p>
       <p>🔗 <a href="https://github.com/TN-ThushaN/NLP_Student_Feedback"><strong>View GitHub Repository ↗</strong></a></p>
       <ul>
         <li>Collect and preprocess student feedback</li>
@@ -219,7 +224,7 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
     </td>
     <td width="50%" valign="top">
       <h3>🚲 Bike Sharing Demand Forecasting</h3>
-      <p><strong>Time Series • Python • Regression</strong></p>
+      <p><strong>Data Science • Time Series • Python • Regression</strong></p>
       <ul>
         <li>Explore historical demand patterns</li>
         <li>Engineer time and lag features</li>
@@ -232,7 +237,7 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 </table>
 
 <details>
-  <summary><strong>🔬 More Academic Projects &amp; Coursework</strong></summary>
+  <summary><strong>🔬 More Data Science Projects &amp; Academic Coursework</strong></summary>
 
   - 🆘 **AidBridge:** Disaster relief, donor/NGO/victim roles, allocations, and reporting
   - 🏠 **King County House Prices:** OLS, log-linear regression, LASSO, and diagnostic analysis
@@ -248,27 +253,33 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 
 ---
 
-# 🔬 My Data Analytics Workflow
+# 🔬 My Data Science & Analytics Workflow
 
 ```text
-        📥 DEFINE THE BUSINESS QUESTION
-                     ↓
-            🗂️ COLLECT DATA
-                     ↓
-           🧹 CLEAN & VALIDATE
-                     ↓
-           🔍 EXPLORE PATTERNS
-                     ↓
-           🎯 DEFINE KPIs
-                     ↓
-           📊 BUILD DASHBOARDS
-                     ↓
-          💡 COMMUNICATE INSIGHTS
-                     ↓
-              🚀 TAKE ACTION
+       🎯 DEFINE THE PROBLEM
+                 ↓
+          🗂️ COLLECT DATA
+                 ↓
+        🧹 CLEAN & VALIDATE
+                 ↓
+         🔍 EXPLORE DATA
+                 ↓
+          📈 FIND PATTERNS
+                 ↓
+        ┌────────┴────────┐
+        ↓                 ↓
+   📊 BI & REPORTING   🤖 DATA SCIENCE
+   Define KPIs         Engineer features
+   Build dashboards    Train & evaluate models
+        ↓                 ↓
+        └────────┬────────┘
+                 ↓
+       💡 COMMUNICATE INSIGHTS
+                 ↓
+       🚀 SUPPORT DECISIONS
 ```
 
-*For predictive projects, I also use feature engineering, model training, and evaluation.*
+*My projects combine descriptive analytics, business reporting, and predictive modeling when appropriate.*
 
 ---
 
@@ -288,15 +299,13 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 # 📈 Contribution Activity
 
 <!-- BEGIN ACTIVITY-GRAPH -->
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
     alt="Thushan's GitHub Contribution Activity"
     width="100%"
   />
 </p>
-
 <!-- END ACTIVITY-GRAPH -->
 
 ---
@@ -332,6 +341,8 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
   <img src="https://img.shields.io/badge/KPI%20Design-0A91AD?style=for-the-badge" alt="KPI Design" />
   <img src="https://img.shields.io/badge/Data%20Storytelling-0066FF?style=for-the-badge" alt="Data Storytelling" />
   <img src="https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge" alt="Python Analytics" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Science-5B5FC7?style=for-the-badge" alt="Data Science" />
 </p>
 
 ---
@@ -342,10 +353,12 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 📊 POWER BI         → Data modeling, Power Query, DAX
 🗄️ SQL              → Joins, CTEs, window functions
 📗 EXCEL            → PivotTables, formulas, dashboards
+🧪 DATA SCIENCE     → Python, statistics, EDA, feature engineering
+🤖 MACHINE LEARNING → Classification, regression, evaluation
 📈 KPI REPORTING    → Metrics that answer business questions
 💡 STORYTELLING     → Clear insights and recommendations
-🚀 BI PORTFOLIO     → Publish dashboards and case studies
-🤝 INTERNSHIP       → Apply BI skills to practical problems
+🚀 PROJECT PORTFOLIO→ Publish BI dashboards and data science studies
+🤝 INTERNSHIP       → Apply analytical skills to practical problems
 ```
 
 ---
@@ -357,12 +370,12 @@ I'm a **Data Science undergraduate** interested in turning messy datasets into m
 ║                                              ║
 ║       DATA  →  INSIGHTS  →  IMPACT           ║
 ║                                              ║
-║    📊 Analyze   💡 Explain   🚀 Improve      ║
+║    🧪 Explore   📊 Visualize   🚀 Improve    ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
 
-I believe strong data projects should do more than look impressive — they should **answer useful questions and support real decisions**.
+I believe strong **Data Science and Business Intelligence** projects should do more than look impressive — they should **answer useful questions, reveal meaningful patterns, and support real decisions**.
 
 ---
 
@@ -383,12 +396,12 @@ I believe strong data projects should do more than look impressive — they shou
 ---
 
 <p align="center">
-  <img alt="Animated closing message" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Analyze+%7C+Visualize+%7C+Communicate+%7C+Improve;Turning+Data+into+Meaningful+Insights;Building+Better+Decisions+with+Data" />
+  <img alt="Animated closing message" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Data+Science+%7C+Business+Intelligence+%7C+Analytics;Analyze+%7C+Model+%7C+Visualize+%7C+Communicate;Turning+Data+into+Meaningful+Insights" />
 </p>
 
 <h2 align="center">💙 Thanks for visiting my profile!</h2>
 
-<p align="center">⭐ Explore my repositories, or connect with me about BI and Data Analytics opportunities.</p>
+<p align="center">⭐ Explore my Data Science and BI projects, or connect with me about internship opportunities.</p>
 
 <p align="center">
   <img width="100%" alt="Cyan and blue waving footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066FF,100:00F7FF&amp;height=120&amp;section=footer" />
