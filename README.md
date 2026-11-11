@@ -1,408 +1,298 @@
-<h1 align="center">Hi 👋, I'm Thushan</h1>
+# 👋 Hi, I'm Thushan!
 
-<h3 align="center">Data Science • Business Intelligence • Data Analytics • Machine Learning</h3>
+<h3 align="center">Aspiring Business Intelligence Analyst | Data Science Undergraduate</h3>
 
 <p align="center">
-  🎓 <strong>BSc (Hons) in Data Science</strong> · Sabaragamuwa University of Sri Lanka 🇱🇰<br>
-  <strong>Expected Graduation: 2028</strong> · Open to Data Science, BI &amp; Data Analytics Internships
+  <strong>Turning Data into Insights. Transforming Insights into Decisions.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TN-ThushaN">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=TN-ThushaN&amp;label=Profile+Views&amp;color=00F7FF&amp;style=for-the-badge" />
-  </a>
-  <a href="https://github.com/TN-ThushaN?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/TN-ThushaN?style=for-the-badge&amp;color=00F7FF&amp;labelColor=0D1117" />
-  </a>
+  🎓 BSc (Hons) in Data Science | Sabaragamuwa University of Sri Lanka 🇱🇰
+  <br>
+  📅 Expected Graduation: 2028
+  <br>
+  💼 Open to Business Intelligence, Data Analytics & Data Science Internships
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tn-thushan-b6777a326">
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=111827&amp;labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tnthushan006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TN-ThushaN">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="Animated introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2900&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=930&amp;lines=Turning+Data+into+Actionable+Insights;Data+Science+%7C+Business+Intelligence+%7C+Analytics;Power+BI+%7C+SQL+%7C+Python+%7C+Machine+Learning;Building+Dashboards+and+Predictive+Models;Open+to+Data+Science+%26+BI+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Business+Intelligence+%7C+Data+Analytics;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+%7C+Python;Turning+Data+into+Actionable+Insights;Building+Solutions+with+Real-World+Data" />
 </p>
 
 <p align="center">
-  <img width="100%" alt="Cyan and blue waving divider" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F7FF,100:0066FF&amp;height=120&amp;section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=110&section=header" />
 </p>
-
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-my-tech-universe">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-analytics">GitHub Stats</a> •
-  <a href="#-lets-connect">Contact</a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science undergraduate** passionate about using **Data Science, Business Intelligence, and Data Analytics** to solve real-world problems. I enjoy cleaning and exploring data, discovering patterns, building predictive models, and transforming findings into clear dashboards and actionable business insights.
+I'm a Data Science undergraduate at Sabaragamuwa University of Sri Lanka, interested in using data to solve business problems and support better decision-making.
 
-- 📊 **Career focus:** Business Intelligence Analyst / Data Scientist / Data Analyst
-- 🧰 **Analytics toolkit:** Power BI, Excel, SQL, Python, Power Query, DAX, and data visualization
-- 🧪 **Data Science skills:** Data preprocessing, exploratory data analysis (EDA), statistics, feature engineering, machine learning, and model evaluation
-- 🎯 **What I enjoy:** Data cleaning, reporting, dashboard design, KPI tracking, forecasting, and data storytelling
-- 🧠 **Related interests:** Natural Language Processing (NLP), predictive analytics, and time-series analysis
-- 🗄️ **Project experience:** Database-backed web systems, MySQL, and MongoDB
-- 🤝 **Opportunities:** Data Science, BI, and Data Analytics internships
+My primary career interest is **Business Intelligence and Data Analytics**, where I enjoy transforming raw data into meaningful insights through data preparation, SQL queries, interactive dashboards and reporting.
 
-### 🎯 Career Focus
+I also explore Data Science and Machine Learning to understand patterns, build predictive models and solve analytical problems.
 
-**Data Science + Business Intelligence + Data Analytics → Insights → Data-Driven Decision Making**
+### 🎯 Professional Interests
 
-> **My goal:** Turn raw data into reliable predictions, understandable insights, and better business decisions.
+- 📊 Business Intelligence and Dashboard Development
+- 📈 Data Analytics and Business Reporting
+- 🗄️ SQL and Database Management
+- 📉 KPI Development and Performance Monitoring
+- 🤖 Predictive Analytics and Machine Learning
+- 🔍 Exploratory Data Analysis and Data Visualization
+
+### 💡 My Career Goal
+
+To become a skilled Business Intelligence Analyst who can transform complex datasets into clear insights, meaningful reports and practical business recommendations.
 
 ---
 
-# 🧠 My Tech Universe
+## 🛠️ Technical Skills
 
-### 📊 Business Intelligence & Analytics
+### 📊 Business Intelligence & Data Analytics
 
 <p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-087E8B?style=for-the-badge" />
-  <img alt="DAX" src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge" />
-  <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-00A6C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-087E8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-00A6C7?style=for-the-badge" />
 </p>
 
-### 💻 Languages
+### 🐍 Programming & Data Science
 
 <p align="center">
-  <img alt="Python, PHP, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=python,php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" />
 </p>
 
-### 🤖 Data Science, Machine Learning & Statistics
-
 <p align="center">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
-  <img alt="Exploratory Data Analysis" src="https://img.shields.io/badge/EDA-0A91AD?style=for-the-badge" />
-  <img alt="Statistics" src="https://img.shields.io/badge/Statistics-5B5FC7?style=for-the-badge" />
-  <img alt="NLP" src="https://img.shields.io/badge/NLP-0B7285?style=for-the-badge" />
-  <img alt="Forecasting" src="https://img.shields.io/badge/Forecasting-0066FF?style=for-the-badge" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img alt="Flask, Bootstrap, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=flask,bootstrap,js,html,css" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-5B5FC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-0B7285?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img alt="MySQL and MongoDB" src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ⚙️ Development Tools
 
 <p align="center">
-  <img alt="Git, GitHub, VS Code and Postman" src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<p align="center"><strong>Business intelligence dashboards, data science, machine learning, NLP, forecasting, and real-world applications</strong></p>
+My projects combine Business Intelligence, Data Analytics, Machine Learning and practical problem-solving.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🇱🇰 Sri Lanka Inflation Dashboard</h3>
-      <p><strong>Power BI • CCPI &amp; NCPI • Data Visualization</strong></p>
-      <ul>
-        <li>Analyze monthly inflation trends (2020–2025)</li>
-        <li>Compare overall, food, and non-food inflation</li>
-        <li>Explore interactive reports and year filters</li>
-        <li>Uses official Sri Lankan DCS statistics</li>
-      </ul>
-      <p><em>Academic dashboard · Repository link to be added</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ Retail Sales &amp; Profitability</h3>
-      <p><strong>SQL • Python • Analytics Dashboard</strong></p>
-      <ul>
-        <li>Analyze revenue and profit margins</li>
-        <li>Compare categories and regional performance</li>
-        <li>Present business KPIs and sales patterns</li>
-        <li>Synthetic demonstration dataset</li>
-      </ul>
-      <p><em>BI portfolio project · Repository link to be added</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 HR Workforce Insights</h3>
-      <p><strong>SQL • Python • HR Analytics</strong></p>
-      <ul>
-        <li>Analyze workforce composition</li>
-        <li>Review hiring and employee exit patterns</li>
-        <li>Explore satisfaction and workforce KPIs</li>
-        <li>Synthetic demonstration dataset</li>
-      </ul>
-      <p><em>BI portfolio project · Repository link to be added</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎧 Customer Support Analytics</h3>
-      <p><strong>SQL • Python • Operations Reporting</strong></p>
-      <ul>
-        <li>Explore support ticket volumes and trends</li>
-        <li>Track resolution time and service KPIs</li>
-        <li>Assess operational performance</li>
-        <li>Synthetic demonstration dataset</li>
-      </ul>
-      <p><em>BI portfolio project · Repository link to be added</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📘 BookHub</h3>
-      <p><strong>Library Management System • PHP • MySQL</strong></p>
-      <p>🔗 <a href="https://github.com/TN-ThushaN/bookhub"><strong>View GitHub Repository ↗</strong></a></p>
-      <ul>
-        <li>Role-based Admin and User dashboards</li>
-        <li>Borrowing and return management</li>
-        <li>Notifications and transaction history</li>
-        <li>Reports and database operations</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Fake News Detection</h3>
-      <p><strong>Data Science • Machine Learning • NLP • Flask</strong></p>
-      <p>🔗 <a href="https://github.com/TN-ThushaN/Fake-News-Detection"><strong>View GitHub Repository ↗</strong></a></p>
-      <ul>
-        <li>Text cleaning and NLP preprocessing</li>
-        <li>TF-IDF feature extraction</li>
-        <li>Logistic Regression classification</li>
-        <li>Flask prediction interface</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Student Feedback Analysis</h3>
-      <p><strong>Data Science • Sentiment Analysis • NLP • Machine Learning</strong></p>
-      <p>🔗 <a href="https://github.com/TN-ThushaN/NLP_Student_Feedback"><strong>View GitHub Repository ↗</strong></a></p>
-      <ul>
-        <li>Collect and preprocess student feedback</li>
-        <li>Apply NLP-based sentiment classification</li>
-        <li>Classify positive, neutral, and negative text</li>
-        <li>Evaluate model performance</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 Expense Tracker</h3>
-      <p><strong>Personal Finance • PHP • MySQL • Chart.js</strong></p>
-      <p>🔗 <a href="https://github.com/TN-ThushaN/Expense-Tracker-App"><strong>View GitHub Repository ↗</strong></a></p>
-      <ul>
-        <li>Track income and expenses by category</li>
-        <li>Manage monthly budgets</li>
-        <li>Explore financial summaries and charts</li>
-        <li>View spending analytics</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <p><strong>Responsive Web Design • HTML • CSS • JavaScript</strong></p>
-      <p>🔗 <a href="https://github.com/TN-ThushaN/thushan-portfolio"><strong>View GitHub Repository ↗</strong></a></p>
-      <ul>
-        <li>Project and technical skills showcase</li>
-        <li>Responsive, mobile-friendly layout</li>
-        <li>Interactive interface elements</li>
-        <li>Portfolio presentation</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚲 Bike Sharing Demand Forecasting</h3>
-      <p><strong>Data Science • Time Series • Python • Regression</strong></p>
-      <ul>
-        <li>Explore historical demand patterns</li>
-        <li>Engineer time and lag features</li>
-        <li>Train supervised regression models</li>
-        <li>Evaluate MAE, RMSE, and R²</li>
-      </ul>
-      <p><em>Academic capstone · Repository link to be added</em></p>
-    </td>
-  </tr>
-</table>
+### 📊 1. Sri Lanka Inflation Analysis Dashboard
 
-<details>
-  <summary><strong>🔬 More Data Science Projects &amp; Academic Coursework</strong></summary>
+**Power BI | Data Analytics | Official Sri Lankan Statistics**
 
-  - 🆘 **AidBridge:** Disaster relief, donor/NGO/victim roles, allocations, and reporting
-  - 🏠 **King County House Prices:** OLS, log-linear regression, LASSO, and diagnostic analysis
-  - 🏡 **Ames House Prices (Kaggle):** Feature preparation, prediction, and submission workflow
-  - 🌧️ **Seasonal Rainfall Study:** Probability distributions and monsoon comparisons
-  - 📚 **Book Data Scraping & EDA:** Extract, clean, and visualize book prices and ratings
-  - 🗃️ **Data Warehousing:** ETL, OLAP, dimensional modeling, star and snowflake schemas
-  - 🔗 **XML/XPath/XSLT:** Data structuring, navigation, and transformation
-  - 🌐 **Parallel & Distributed Computing:** System architectures and comparisons
-  - 🕸️ **Graph Theory:** Random graphs and graph properties
-  - 📈 **Scientific Visualization:** Evaluation of graphics in computing research
-</details>
+- Analyze Sri Lanka's inflation trends from January 2020 to December 2025.
+- Explore Colombo Consumer Price Index (CCPI) and National Consumer Price Index (NCPI).
+- Compare food and non-food inflation trends.
+- Develop interactive visualizations, KPI cards and filters.
+- Work with official Department of Census and Statistics data.
+
+**Focus:** Business Intelligence, KPI Reporting and Data Visualization.
+
+### 🌧️ 2. Kelaniya Flood Impact on Road Networks
+
+**Graph Theory | Python | OpenStreetMap | Network Analysis**
+
+- Build a real-world road network using OpenStreetMap data.
+- Analyze 10,770 road-network nodes and 20,727 directed edges.
+- Identify flood-exposed road segments.
+- Evaluate network connectivity before and after flood exposure.
+- Investigate alternative routes and flood-related accessibility challenges.
+
+**Focus:** Real-world Data Analysis, Graph Theory and Network Resilience.
+
+### 🎧 3. Student Feedback Sentiment Analysis
+
+**Python | NLP | BERT | PHP | MySQL**
+
+- Develop an NLP-based student feedback analysis application.
+- Process and classify more than 2,000 feedback records.
+- Identify positive, neutral and negative sentiment.
+- Present sentiment results through interactive visualizations.
+- Apply Natural Language Processing to understand unstructured text.
+
+**Repository:** [NLP Student Feedback](https://github.com/TN-ThushaN/NLP_Student_Feedback)
+
+### 🚲 4. Bike Sharing Demand Forecasting
+
+**Python | Machine Learning | Regression | Data Analysis**
+
+- Explore historical bike-sharing demand patterns.
+- Investigate weather, seasonality and time-related variables.
+- Perform data preprocessing and feature engineering.
+- Develop supervised regression models.
+- Evaluate model performance using MAE, RMSE and R².
+
+**Focus:** Predictive Analytics and Demand Forecasting.
+
+### 📘 5. BookHub – Library Management System
+
+**PHP | MySQL | Database Management | Web Development**
+
+- Develop a database-backed library management application.
+- Implement Admin and User functionality.
+- Manage books and borrowing transactions.
+- Maintain user information and transaction history.
+- Design database-driven application workflows.
+
+**Repository:** [BookHub](https://github.com/TN-ThushaN/bookhub)
+
+### 🏠 6. House Price Prediction
+
+**Python | Kaggle | Machine Learning | Regression**
+
+- Explore housing datasets and identify important features.
+- Perform data cleaning and feature preparation.
+- Apply regression techniques for price prediction.
+- Evaluate predictions using regression metrics.
+- Explore model performance and prediction accuracy.
+
+**Focus:** Predictive Modeling and Statistical Analysis.
+
+### 🌐 7. Personal Portfolio Website
+
+**HTML | CSS | JavaScript**
+
+- Showcase academic and personal projects.
+- Present technical skills and career interests.
+- Create a responsive portfolio interface.
+- Organize projects and professional information.
+
+**Repository:** [Personal Portfolio](https://github.com/TN-ThushaN/thushan-portfolio)
 
 ---
 
-# 🔬 My Data Science & Analytics Workflow
+## 🔬 My Data Analytics Workflow
 
 ```text
-       🎯 DEFINE THE PROBLEM
-                 ↓
-          🗂️ COLLECT DATA
-                 ↓
-        🧹 CLEAN & VALIDATE
-                 ↓
-         🔍 EXPLORE DATA
-                 ↓
-          📈 FIND PATTERNS
-                 ↓
-        ┌────────┴────────┐
-        ↓                 ↓
-   📊 BI & REPORTING   🤖 DATA SCIENCE
-   Define KPIs         Engineer features
-   Build dashboards    Train & evaluate models
-        ↓                 ↓
-        └────────┬────────┘
-                 ↓
-       💡 COMMUNICATE INSIGHTS
-                 ↓
-       🚀 SUPPORT DECISIONS
-```
-
-*My projects combine descriptive analytics, business reporting, and predictive modeling when appropriate.*
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TN-ThushaN&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Thushan's GitHub statistics" height="180" />
-  <img src="https://streak-stats.demolab.com?user=TN-ThushaN&amp;theme=tokyonight&amp;hide_border=true" alt="Thushan's GitHub contribution streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-ThushaN&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Languages across Thushan's public GitHub repositories" height="180" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"
-    alt="Thushan's GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-<!-- END ACTIVITY-GRAPH -->
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<!-- BEGIN SNAKE -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-  </picture>
-</p>
-<!-- END SNAKE -->
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="./assets/github-trophies.svg" alt="GitHub profile trophies" width="100%" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-00C9D8?style=for-the-badge" alt="Power BI and DAX" />
-  <img src="https://img.shields.io/badge/Advanced%20SQL-336791?style=for-the-badge" alt="Advanced SQL" />
-  <img src="https://img.shields.io/badge/Excel%20Analytics-217346?style=for-the-badge" alt="Excel Analytics" />
-  <img src="https://img.shields.io/badge/KPI%20Design-0A91AD?style=for-the-badge" alt="KPI Design" />
-  <img src="https://img.shields.io/badge/Data%20Storytelling-0066FF?style=for-the-badge" alt="Data Storytelling" />
-  <img src="https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge" alt="Python Analytics" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-5B5FC7?style=for-the-badge" alt="Data Science" />
-</p>
-
----
-
-# 🎯 My 2026 Roadmap
-
-```text
-📊 POWER BI         → Data modeling, Power Query, DAX
-🗄️ SQL              → Joins, CTEs, window functions
-📗 EXCEL            → PivotTables, formulas, dashboards
-🧪 DATA SCIENCE     → Python, statistics, EDA, feature engineering
-🤖 MACHINE LEARNING → Classification, regression, evaluation
-📈 KPI REPORTING    → Metrics that answer business questions
-💡 STORYTELLING     → Clear insights and recommendations
-🚀 PROJECT PORTFOLIO→ Publish BI dashboards and data science studies
-🤝 INTERNSHIP       → Apply analytical skills to practical problems
+       BUSINESS PROBLEM
+              ↓
+          DATA COLLECTION
+              ↓
+        DATA CLEANING
+              ↓
+       DATA EXPLORATION
+              ↓
+       DATA ANALYSIS
+              ↓
+      ┌───────┴────────┐
+      ↓                ↓
+  BUSINESS INTEL.   DATA SCIENCE
+      ↓                ↓
+  KPI DEVELOPMENT  MODEL BUILDING
+      ↓                ↓
+  POWER BI REPORTS  MODEL EVALUATION
+      └───────┬────────┘
+              ↓
+      ACTIONABLE INSIGHTS
+              ↓
+      BETTER DECISIONS
 ```
 
 ---
 
-# 💡 What I'm Building
+## 📊 GitHub Analytics
 
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       DATA  →  INSIGHTS  →  IMPACT           ║
-║                                              ║
-║    🧪 Explore   📊 Visualize   🚀 Improve    ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=TN-ThushaN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="175" src="https://streak-stats.demolab.com?user=TN-ThushaN&theme=tokyonight&hide_border=true" />
+</p>
 
-I believe strong **Data Science and Business Intelligence** projects should do more than look impressive — they should **answer useful questions, reveal meaningful patterns, and support real decisions**.
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN-ThushaN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TN-ThushaN&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TN-ThushaN/TN-ThushaN/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+</p>
 
 ---
 
-# 🌐 Let's Connect
+## 📚 Currently Learning
+
+- 📊 Advanced Power BI and DAX
+- 🗄️ SQL Queries and Database Management
+- 📗 Excel for Business Analytics
+- 📈 KPI Development and Business Reporting
+- 🔍 Data Analysis and Data Storytelling
+- 🐍 Python for Data Analytics
+
+---
+
+## 🎯 My 2026 Career Roadmap
+
+| Area | Learning Goal |
+|---|---|
+| Power BI | Data modeling, DAX and interactive dashboards |
+| SQL | Joins, CTEs and window functions |
+| Excel | PivotTables, formulas and reporting |
+| Analytics | Business metrics and KPI development |
+| Visualization | Dashboard design and storytelling |
+| Portfolio | Publish practical BI and analytics projects |
+| Career | Secure a Business Intelligence / Data Analytics internship |
+
+---
+
+## 🤝 Let's Connect!
+
+I'm interested in connecting with professionals, recruiters, developers and fellow students who share an interest in Business Intelligence, Data Analytics and Data Science.
 
 <p align="center">
-  <a href="mailto:tnthushan006@gmail.com">
-    <img alt="Send an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/tn-thushan-b6777a326">
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tnthushan006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Me%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/TN-ThushaN">
-    <img alt="Visit GitHub profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img alt="Animated closing message" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Data+Science+%7C+Business+Intelligence+%7C+Analytics;Analyze+%7C+Model+%7C+Visualize+%7C+Communicate;Turning+Data+into+Meaningful+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Analyze+%7C+Visualize+%7C+Understand;Data+Driven+Thinking+%7C+Business+Impact;Turning+Data+into+Meaningful+Insights" />
 </p>
 
-<h2 align="center">💙 Thanks for visiting my profile!</h2>
-
-<p align="center">⭐ Explore my Data Science and BI projects, or connect with me about internship opportunities.</p>
+<h2 align="center">💙 Thanks for visiting my GitHub profile!</h2>
 
 <p align="center">
-  <img width="100%" alt="Cyan and blue waving footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066FF,100:00F7FF&amp;height=120&amp;section=footer" />
+  ⭐ Explore my repositories and connect with me!
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=110&section=footer" />
 </p>
